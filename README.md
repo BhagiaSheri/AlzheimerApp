@@ -2,7 +2,7 @@
 
 Alzheimer's is the most common cause of dementia, a general term for memory loss and other cognitive abilities serious enough to interfere with daily life. Our idea is to develop an application (Memory Stash Alzheimer Aid) that helps them in their daily routine tasks, focusing on the problems they face in every stage.
 
-![pic1](https://user-images.githubusercontent.com/38161609/69905184-14b9c400-13d2-11ea-8f8f-bbdc34631f25.jpg)
+![first](https://user-images.githubusercontent.com/38161609/69906203-982ee180-13e1-11ea-8fe2-868778565044.jpg)
 
 There are 7 stages of Alzheimer disease each stage has its own symptoms. As the stage increases the condition of patient become worse over time. In the initial 4 to  5 stages, patient will face the memory loss issue, inability to solve the cognitive problems ,inability to respond the environment and loss of thinking and reasoning power. In 6 and 7 stage, patient will enter the most severe stage (i.e. dementia) where patient will be unable to perform daily routine tasks independently (i.e. drink water, eat food, take pills, etc. ). They will be fully dependent on their loved ones  or care taker.
 
@@ -51,15 +51,16 @@ The features which we have incorporated are:
 //Chat View
 - implementation 'com.github.bassaer:chatmessageview:1.8.6'
 
-
 # Graphics
-![pic2](https://user-images.githubusercontent.com/38161609/69905272-f6a09380-13d2-11ea-82b1-e26edd2e1296.jpg)
-![pic3](https://user-images.githubusercontent.com/38161609/69905274-fb654780-13d2-11ea-8409-ee0e2277e33b.jpg)
-![pic4](https://user-images.githubusercontent.com/38161609/69905276-fdc7a180-13d2-11ea-9cfb-9fc3bc574a35.jpg)
+
+<img   hspace="20" src="https://user-images.githubusercontent.com/38161609/69905272-f6a09380-13d2-11ea-82b1-e26edd2e1296.jpg" width="400" height="600"/><img src="https://user-images.githubusercontent.com/38161609/69905274-fb654780-13d2-11ea-8409-ee0e2277e33b.jpg" width="400" height="600"/>
+
+<img   hspace="20" src="https://user-images.githubusercontent.com/38161609/69905276-fdc7a180-13d2-11ea-9cfb-9fc3bc574a35.jpg" width="400" height="600"/><img src="https://user-images.githubusercontent.com/38161609/69906081-8a785c80-13df-11ea-8661-72007ecf3d6f.jpeg" width="400" height="600"/>
 
 ![pic5](https://user-images.githubusercontent.com/38161609/69905296-38c9d500-13d3-11ea-958f-43f3ac72d575.jpg)
-![pic6](https://user-images.githubusercontent.com/38161609/69905294-38313e80-13d3-11ea-855c-b6b9bc40bbcd.jpg)
-![pic7](https://user-images.githubusercontent.com/38161609/69905297-3a939880-13d3-11ea-843a-3252aa7e912b.jpg)
+
+<img   hspace="20" src="https://user-images.githubusercontent.com/38161609/69905294-38313e80-13d3-11ea-855c-b6b9bc40bbcd.jpg" width="400" height="600"/><img src="https://user-images.githubusercontent.com/38161609/69905297-3a939880-13d3-11ea-843a-3252aa7e912b.jpg" width="400" height="600"/>
+
 
 # Live View
 [Memory Stash Alzheimer's Aid](https://youtu.be/dbZBPujxqZ8)
@@ -94,7 +95,7 @@ SOFTWARE.
 
 | Executable  | Repository | Team | Description	| Licence | Location | Team Members|
 | ------------- | ----------- | ------------- | ------------------------------------- | ------------- | ------------- | ---------- |
-|[.apk](https://drive.google.com/open?id=1mVcfzcEyxKNAF7YMHsGxruWSW9KAzJH0)| [AlzheimerApp](https://github.com/BhagiaSheri/AlzheimerApp.git) |coderBoost++|Memory Stash Alzheimer's Aid App|MIT|Pakitan|[@BhagiaSheri](https://github.com/BhagiaSheri) [@poojakumari11228](https://github.com/poojakumari11228)|
+|[.apk](https://drive.google.com/open?id=1mVcfzcEyxKNAF7YMHsGxruWSW9KAzJH0)| [AlzheimerApp](https://github.com/BhagiaSheri/AlzheimerApp.git) |coderBoost++|Memory Stash Alzheimer's Aid App|MIT|Pakistan|[@BhagiaSheri](https://github.com/BhagiaSheri) [@poojakumari11228](https://github.com/poojakumari11228)|
  
 
 
