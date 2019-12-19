@@ -68,29 +68,6 @@ The features which we have incorporated are:
 # The coderBoost++ Team
 Memory Stash Alzheimer’s Aid is the collaborative effort of the members of coderBoost++ Bhagia Sheri [bhagiasheri24@gmail.com](url) and PoojaKumari11228 [poojakumari11228@gmail.com](url). We used to analyze real world problems and solve them through software. Therefore, after analyzing the problems faced by the Alzheimer’s patients we came up with an idea to make mobile app for them and worked as developer and designer as well.
 
-# LICENSE
-MIT License
-
-Copyright (c) 2019 BhagiaSheri
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
 # Table
 
 | Executable  | Repository | Team | Description	| Licence | Location | Team Members|
