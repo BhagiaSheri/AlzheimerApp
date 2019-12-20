@@ -63,7 +63,7 @@ The features which we have incorporated are:
 
 
 # Live View
-[Memory Stash Alzheimer's Aid](https://youtu.be/dbZBPujxqZ8)
+Watch [Memory Stash Alzheimer's Aid](https://youtu.be/dbZBPujxqZ8) Video.
 
 # The coderBoost++ Team
 Memory Stash Alzheimer’s Aid is the collaborative effort of the members of coderBoost++ Bhagia Sheri [bhagiasheri24@gmail.com](url) and PoojaKumari11228 [poojakumari11228@gmail.com](url). We used to analyze real world problems and solve them through software. Therefore, after analyzing the problems faced by the Alzheimer’s patients we came up with an idea to make mobile app for them and worked as developer and designer as well.
